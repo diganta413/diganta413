@@ -5,4 +5,3 @@
 - :mega: Actively looking for internships.
 - :technologist: Tech Enthusiast.
 - :octocat: Looking to contribute more to open source projects.
-- https://github-readme-stats.vercel.app/api?username=diganta413
