@@ -7,4 +7,4 @@
 - :octocat: Looking to contribute more to open source projects.
 
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=diganta413)
+![My Stats](https://github-readme-stats.vercel.app/api?username=diganta413&show_icons=true&theme=radical)
