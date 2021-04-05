@@ -8,14 +8,13 @@
 
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=diganta413&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diganta413&show_icons=true&theme=radical" />
-</a>
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=diganta413&show_icons=true&theme=radical" />
 
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=diganta413&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diganta413&layout=compact&theme=radical" />
-</a>
+
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diganta413&layout=compact&theme=radical" />
 
 
 
