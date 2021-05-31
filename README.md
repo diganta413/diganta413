@@ -1,8 +1,7 @@
 ### Hi, I,M DIGANTA!
 
-- 🔭 I’m currently working on Web development.
-- 🌱 I’m currently learning MERN stack.
-- :mega: Actively looking for internships.
+- 🔭 I’m currently working as a Full Stack Developer.
+- 🌱 I’m currently learning GraphQl.
 - :technologist: Tech Enthusiast.
 - :octocat: Looking to contribute more to open source projects.
 
